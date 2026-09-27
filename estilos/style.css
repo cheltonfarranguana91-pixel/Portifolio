@@ -100,3 +100,9 @@ div#social{
   gap: 1em;
   margin-top: 15px;
 }
+div#social a {
+  color: var(--destaque);
+}
+div#social a:hover{
+  color: var(--destaque-inverso);
+}
